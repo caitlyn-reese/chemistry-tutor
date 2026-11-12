@@ -3,6 +3,17 @@ from dataclasses import dataclass
 from bakery import assert_equal
 import re
 
+set_website_title("ChemYield")
+set_site_information(
+    author="Caitlyn Reese",
+    description="Automated Chemistry Tutor",
+    sources="AI Conversation.pdf",
+    planning=["Final Project 0_ Pick a Problem.pdf", "Final Project 1_ Design Phase.pdf"],
+    links=["https://github.com/csreese-ship-it/chemistry-tutor"]
+)
+hide_debug_information()
+set_website_framed(False)
+
 """
 Chemistry Yield Calculator
 -------------------------
