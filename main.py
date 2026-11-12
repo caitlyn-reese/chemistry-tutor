@@ -9,7 +9,7 @@ set_site_information(
     description="Automated Chemistry Tutor",
     sources="AI Conversation.pdf",
     planning=["Final Project 0_ Pick a Problem.pdf", "Final Project 1_ Design Phase.pdf"],
-    links=["https://github.com/csreese-ship-it/chemistry-tutor"]
+    links=["https://github.com/caitlyn-reese/chemistry-tutor"]
 )
 hide_debug_information()
 set_website_framed(False)
