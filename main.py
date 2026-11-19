@@ -8,7 +8,7 @@ set_site_information(
     author="Caitlyn Reese",
     description="Automated Chemistry Tutor",
     sources="AI Conversation.pdf",
-    planning=["Final Project 0_ Pick a Problem.pdf", "Final Project 1_ Design Phase.pdf"],
+    planning=["Final Project 0_ Pick a Problem.pdf", "Final Project 1_ Design Phase.pdf", "CS1 Final Project 3_Feedback.docx"],
     links=["https://github.com/caitlyn-reese/chemistry-tutor"]
 )
 hide_debug_information()
